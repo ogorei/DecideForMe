@@ -1,0 +1,23 @@
+.myCard{
+width: 400px;
+background-color: #ccc; 
+height: 500px
+}
+.myForm input{
+    padding: 10px;
+}
+.myForm{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    width: 400px;
+    background-color: transparent; 
+    padding: 2%;
+    margin: auto;
+    }
+.myForm button{
+    margin-left: 1%;
+    padding:10px;
+    background-color: #ccc;
+    color:black;
+}
